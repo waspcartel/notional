@@ -32,6 +32,7 @@ bash infrastructure/standup.bash
 * Ricardo Ferreria - All things biz, testing of documentation written by Jacob and Khanh
 * Khanh Nguyen - Lead Engineer
 * Long Mai Gia - Lead Infrastructure
+* Tuan Pham - Lead Infrastructure 
 * Vinh Nguyen - Project Manager and Blockchain Engineer
 * Vuong Nguyen - Blockchain Engineer
 * Son Trinh - Blockchain Engineer
@@ -39,8 +40,26 @@ bash infrastructure/standup.bash
 * Du Nguyen - Infrastructure Engineer
 * Hieu Vu - Blockchain Engineer
 * Huy Nguyen - UI/UX Designer
-* Reece Williams - Blockchain Engineer
 * Ruslan Akhtariev - Blockchain Engineer
+* William Gray - Marketing Director 
+* Geoffroy Vliegen - Chief Operations Officer
+* Diep Anh - Back Office Manager
+* William Chaplin - Operations
+* Dat Van Dao - Office Manager
+* Duc Nguyen - Developer  
+* Dang Vu - Software Developer
+* Nhan Nguyen - Project Manager 
+* Sam Baron - Governance Lead 
+* Dong Duong - Intern Developer
+* Minh Pham - CosmWasm Intern 
+* Hoang Do - Blockchain Engineer 
+* Kien Trinh - Smart Contract Developer 
+* Ho Nugyen - Smart Contract Engineer  
+* Alex Suntaru - Legal Advisor 
+* Adam Chaplin - Advisor 
+* Brenn Hill - Consultant 
+* Ludo Drijbooms - Advisor 
+* Shayne Rarma - Business Process Advisor 
 
 ## Thanks
 
